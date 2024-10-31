@@ -13,23 +13,18 @@
 [![Modrinth Downloads](https://img.shields.io/modrinth/dt/QNVaUzHT?label=Modrinth%20Downloads&logo=Modrinth%20Downloads&style=flat-square)](https://modrinth.com/mod/cheatdetector)
 -->
 
-Raven B4, but for those who can't afford it.
+RavenXD, but for those who want a bit more.
 
-Raven B4, but not only for Hypixel.
+Raven XD, but cooler!.
 
-<a href="https://dsc.gg/ravenxd"><img src="https://invidget.switchblade.xyz/zSgDKArSH4" alt="https://dsc.gg/ravenxd"/></a><br>
-[QQ Group (645021103)](https://qm.qq.com/q/vv0xPdfc6A)
 
-![2024-08-13_10 14 36](https://github.com/user-attachments/assets/36e8920e-336e-4b62-ae3f-6b9962920812)
-![Screenshot 2024-08-13 084510](https://github.com/user-attachments/assets/85637f18-9d6b-47d9-9dc2-cb8594aff585)
-</div>
 
 ## How do I install this client?
 
 ### Steps:
 
 1. **Download the latest .jar file from the releases**:
-   - Download from [https://github.com/xia-mc/Raven-XD/releases](https://github.com/xia-mc/Raven-XD/releases)
+   - !! BUILD IT YOURSELF !!
    - This client requires Forge 1.8.9.
 
 2. **Put in mods folder of your .minecraft directory**:
@@ -61,7 +56,7 @@ Raven B4, but not only for Hypixel.
 4. **Clone the Repository**:
    - Run the following commands in the terminal or command prompt:
      ```bash
-     git clone --recursive https://github.com/xia-mc/Raven-XD.git
+     git clone --recursive https://github.com/waitlists/Silly-Raven.git
      cd Raven-XD
      ```
 
@@ -77,12 +72,7 @@ Raven B4, but not only for Hypixel.
    - If all steps complete without errors, the project is successfully built.
 
 
-## Contribute
-Feel free to raise an issue or submit a pull request.
 
-If you want to co-develop this project with me, please contact me.
-
-You can also support us on [Patreon](https://www.patreon.com/xia__mc)!
 
 <div align="center">
 
